@@ -15,7 +15,10 @@ new LambdatestStack(app, 'LambdatestStack', {
 
   /* Uncomment the next line if you know exactly what Account and Region you
    * want to deploy the stack to. */
+  // pete
   env: { account: '424729227960', region: 'us-west-2' },
+  // chris
+  //env: { account: '266697619022', region: 'us-west-2' },
 
   /* For more information, see https://docs.aws.amazon.com/cdk/latest/guide/environments.html */
 });
